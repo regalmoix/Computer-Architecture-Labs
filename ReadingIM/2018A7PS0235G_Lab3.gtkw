@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Tue Sep 29 15:03:42 2020
+[*]
+[dumpfile] "/home/regalmoix/verilog/ReadingIM/2018A7PS0235G_Lab3.vcd"
+[dumpfile_mtime] "Tue Sep 29 15:01:40 2020"
+[dumpfile_size] 179329
+[savefile] "/home/regalmoix/verilog/ReadingIM/2018A7PS0235G_Lab3.gtkw"
+[timestart] 0
+[size] 1920 1010
+[pos] 3 -1
+*-4.067507 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Reading_IMTestBench.
+[sst_width] 202
+[signals_width] 140
+[sst_expanded] 1
+[sst_vpaned_height] 309
+@25
+Reading_IMTestBench.opcode[5:0]
+Reading_IMTestBench.funct[5:0]
+Reading_IMTestBench.clk
+Reading_IMTestBench.reset
+Reading_IMTestBench.uut.outPC[31:0]
+Reading_IMTestBench.uut.IR[31:0]
+[pattern_trace] 1
+[pattern_trace] 0

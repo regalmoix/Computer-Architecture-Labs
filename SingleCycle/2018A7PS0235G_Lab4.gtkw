@@ -1,0 +1,68 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Tue Oct  6 15:47:27 2020
+[*]
+[dumpfile] "/home/regalmoix/verilog/SingleCycle/2018A7PS0235G_Lab4.vcd"
+[dumpfile_mtime] "Tue Oct  6 15:30:41 2020"
+[dumpfile_size] 648546
+[savefile] "/home/regalmoix/verilog/SingleCycle/2018A7PS0235G_Lab4.gtkw"
+[timestart] 0
+[size] 1920 1010
+[pos] 3 -1
+*-4.261223 10 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] singleCycleTestBench.
+[sst_width] 239
+[signals_width] 235
+[sst_expanded] 1
+[sst_vpaned_height] 299
+@c00022
+singleCycleTestBench.uut.IR[31:0]
+@28
+(0)singleCycleTestBench.uut.IR[31:0]
+(1)singleCycleTestBench.uut.IR[31:0]
+(2)singleCycleTestBench.uut.IR[31:0]
+(3)singleCycleTestBench.uut.IR[31:0]
+(4)singleCycleTestBench.uut.IR[31:0]
+(5)singleCycleTestBench.uut.IR[31:0]
+(6)singleCycleTestBench.uut.IR[31:0]
+(7)singleCycleTestBench.uut.IR[31:0]
+(8)singleCycleTestBench.uut.IR[31:0]
+(9)singleCycleTestBench.uut.IR[31:0]
+(10)singleCycleTestBench.uut.IR[31:0]
+(11)singleCycleTestBench.uut.IR[31:0]
+(12)singleCycleTestBench.uut.IR[31:0]
+(13)singleCycleTestBench.uut.IR[31:0]
+(14)singleCycleTestBench.uut.IR[31:0]
+(15)singleCycleTestBench.uut.IR[31:0]
+(16)singleCycleTestBench.uut.IR[31:0]
+(17)singleCycleTestBench.uut.IR[31:0]
+(18)singleCycleTestBench.uut.IR[31:0]
+(19)singleCycleTestBench.uut.IR[31:0]
+(20)singleCycleTestBench.uut.IR[31:0]
+(21)singleCycleTestBench.uut.IR[31:0]
+(22)singleCycleTestBench.uut.IR[31:0]
+(23)singleCycleTestBench.uut.IR[31:0]
+(24)singleCycleTestBench.uut.IR[31:0]
+(25)singleCycleTestBench.uut.IR[31:0]
+(26)singleCycleTestBench.uut.IR[31:0]
+(27)singleCycleTestBench.uut.IR[31:0]
+(28)singleCycleTestBench.uut.IR[31:0]
+(29)singleCycleTestBench.uut.IR[31:0]
+(30)singleCycleTestBench.uut.IR[31:0]
+(31)singleCycleTestBench.uut.IR[31:0]
+@1401202
+-group_end
+@24
+singleCycleTestBench.uut.aluIn1[31:0]
+singleCycleTestBench.uut.aluIn2[31:0]
+singleCycleTestBench.uut.aluOutput[31:0]
+singleCycleTestBench.uut.read_data[31:0]
+singleCycleTestBench.uut.jump
+singleCycleTestBench.uut.Branch
+singleCycleTestBench.uut.zero
+@25
+singleCycleTestBench.uut.clk
+@24
+singleCycleTestBench.uut.reset
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,33 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Tue Sep  8 14:43:39 2020
+[*]
+[dumpfile] "/home/regalmoix/verilog/RegisterFile/2018A7PS0235G_Lab2.vcd"
+[dumpfile_mtime] "Tue Sep  8 14:38:12 2020"
+[dumpfile_size] 222007
+[savefile] "/home/regalmoix/verilog/RegisterFile/2018A7PS0235G_Lab2.gtkw"
+[timestart] 0
+[size] 1920 1010
+[pos] 3 -1
+*-4.214125 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[treeopen] testbench.uut.
+[sst_width] 243
+[signals_width] 225
+[sst_expanded] 1
+[sst_vpaned_height] 281
+@25
+testbench.clk
+testbench.outR0[31:0]
+testbench.outR1[31:0]
+testbench.rd0[4:0]
+testbench.rd1[4:0]
+testbench.regWrite
+testbench.reset
+testbench.rs[4:0]
+testbench.rt[4:0]
+testbench.select
+testbench.writeData[31:0]
+testbench.uut.d.decOut[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
